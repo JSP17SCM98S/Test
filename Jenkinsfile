@@ -4,6 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'test for nirali'
+				echo '.!@#$'
             }
         }
     }
